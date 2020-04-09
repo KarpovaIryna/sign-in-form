@@ -70,19 +70,15 @@ textarea:focus,
 select:focus {
 
 }
-textarea {
-
+textarea{
 }
 .ba-full-width {
 	width: 100%;
  }
- 
  .ba-main {
 	display: flex;
 	justify-content: center;
-
  }
- 
  .ba-form {
 	max-width: 400px;
 	padding: 45px 72px;
